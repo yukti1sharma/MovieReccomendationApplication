@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+<!--    <string name="app_name">MOVIESTREAM</string>-->
+    <string name="movie_streaming_app">Movie Streaming App</string>
+    <string name="c1">Home</string>
+    <string name="c2">Movie</string>
+    <string name="c3">Tv Shows</string>
+    <string name="c4">Kids</string>
+</resources>
